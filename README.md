@@ -3,17 +3,15 @@
 
 :envelope:  chdezmar@gmail.com | :telephone_receiver: +44 7455025958 |
 
-[Profile](#Profile) | [Skills](#Skills) | [Projects](#Projects) |  [Education](#Education) | [Experience](#Experience)
+[Skills](#Skills) | [Projects](#Projects) |  [Education](#Education) | [Experience](#Experience)
 
-I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. Without any previous programming knowledge I learnt about Object Oriented Programming, Test Driven Development, Version Control and a few programming languages and frameworks, leading to making cool [projects](#Projects) .
+I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company in Luxembourg. Attracted by uncertainty, I decided to go for something more exciting where I get challenged everyday.
+
+Without any previous programming knowledge I learnt about Object Oriented Programming, Test Driven Development, Version Control and a few programming languages and frameworks, leading to making cool [projects](#Projects) .
 
 
 I am looking for a Junior Developer position to keep learning and growing with a dynamic company.
 
-
-## <a name="Profile">Profile</a>
-
-After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company in Luxembourg. Attracted by uncertainty, I decided to go for something more exciting where I get challenged everyday.
 
 ## <a name="Skills">Skills</a>
 
