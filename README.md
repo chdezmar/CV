@@ -36,11 +36,12 @@ I like systems that are well designed, integrated and simple.
 For me, software development is about efficiency. Getting the most output from the minimum input is what attracted me to this career. I don't like just making things, I like to do things that make sense.
 
 
+
 ## <a name="Projects">Projects</a>
 
 | Project | Summary | Technologies |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| [Code Fish](https://github.com/chdezmar/GlobalCodeNetwork) | 1:1 real time collaboration app for coders around the world. Text editor with syntax highlighting and chat. Original project completed on 10 days in a team of 5 people. [View Presentation](https://goo.gl/f2JXtX) | Javascript, Node.js, Socket.io, MongoDB, Google Maps, Github API, Bootstrap, Mocha, Chai, Zombie.js|
+| [Code Fish](https://github.com/chdezmar/CodeFish) | 1:1 real time collaboration app for coders around the world. Text editor with syntax highlighting and chat. Original project completed on 10 days in a team of 5 people. [View Presentation](https://goo.gl/f2JXtX) | Javascript, Node.js, Socket.io, MongoDB, Google Maps, Github API, Bootstrap, Mocha, Chai, Zombie.js|
 | [Social Code](https://github.com/chdezmar/social-code) | Don't code alone. A web app for developers, to gather and collaborate. This project is originally the result of one week's work between five people. | Ruby on Rails, PostgreSQL, Google Maps API, Rspec, Capybara|
 |[RPS](https://github.com/chdezmar/rps-challenge) | A simple Rock Paper Scissors web app made on my third weekend at Makers Academy| Ruby, Sinatra, Rspec, Capybara |
 
