@@ -78,9 +78,11 @@ Summer Finance Programme
 ## <a name="Experience">Experience</a>
 
 **Franklin Templeton Investments** (July 2015 to January 2016) | *Intern in Global Compliance*
+###### Luxembourg
 
 * Implemented and tracked an oversight due diligence process for independent investment Sub-Advisers, ensuring an effective adherence to the policies and procedures.
 * Participated in the compliance monitoring of UCITS funds, closely working with EMEA and APAC teams, as well as cross-functionally with other departments.
 * Prepared and sent trade error memos and other sensitive information to the Luxembourg regulator and external auditors.
 
 **Guio Abogados** (October 2014 to December 2014) | *Tax Law internship*
+###### Madrid
