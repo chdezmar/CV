@@ -1,16 +1,39 @@
 # Carlos Hernandez
 
 
-:envelope:  chdezmar@gmail.com | :telephone_receiver: +44 7455025958 |
+:envelope:  chdezmar@gmail.com
 
-[Skills](#Skills) | [Projects](#Projects) |  [Education](#Education) | [Experience](#Experience)
+[Experience](#Experience) | [Skills](#Skills) | [Projects](#Projects) |  [Education](#Education)
 
-I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company in Luxembourg. Attracted by uncertainty, I decided to go for something more exciting where I get challenged everyday.
+I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company in Luxembourg.
 
-Without any previous programming knowledge I learnt about Object Oriented Programming, Test Driven Development, Version Control and a few programming languages and frameworks, leading to making cool [projects](#Projects) .
+At Makers, I learnt about Object Oriented Programming, Test Driven Development, Version Control and a few programming languages and frameworks, leading to making cool [projects](#Projects).
 
 
 I am looking for a Junior Developer position to keep learning and growing with a dynamic company.
+
+
+## <a name="Experience">Experience</a>
+
+**[Dentalzon](http://bitly.com/2jdDz9X)** (November 2016 - Present) | *Rails developer*
+###### Madrid
+
+* Developing new features for a marketplace running on Ruby on Rails
+* In charge of migrating to bootstrap, working closely with a designer. Also developing backend features for the new designs
+* Fixing bugs and refactoring old code, TDD, code reviews
+* Working in teams with in-house and remote developers
+* Tech used: Ruby on Rails, Javascript, React, jQuery, MySQL, Sphinx, GIT...
+
+
+**Franklin Templeton Investments** (July 2015 - January 2016) | *Intern in Global Compliance*
+###### Luxembourg
+
+* Implemented and tracked an oversight due diligence process for independent investment Sub-Advisers, ensuring an effective adherence to the policies and procedures.
+* Participated in the compliance monitoring of UCITS funds, closely working with EMEA and APAC teams, as well as cross-functionally with other departments.
+* Prepared and sent trade error memos and other sensitive information to the Luxembourg regulator and external auditors.
+
+**Guio Abogados** (October 2014 - December 2014) | *Tax Law internship*
+###### Madrid
 
 
 ## <a name="Skills">Skills</a>
@@ -73,16 +96,3 @@ ERASMUS
 
 
 Summer Finance Programme
-
-
-## <a name="Experience">Experience</a>
-
-**Franklin Templeton Investments** (July 2015 to January 2016) | *Intern in Global Compliance*
-###### Luxembourg
-
-* Implemented and tracked an oversight due diligence process for independent investment Sub-Advisers, ensuring an effective adherence to the policies and procedures.
-* Participated in the compliance monitoring of UCITS funds, closely working with EMEA and APAC teams, as well as cross-functionally with other departments.
-* Prepared and sent trade error memos and other sensitive information to the Luxembourg regulator and external auditors.
-
-**Guio Abogados** (October 2014 to December 2014) | *Tax Law internship*
-###### Madrid
