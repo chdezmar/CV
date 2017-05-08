@@ -5,17 +5,19 @@
 
 [Experience](#Experience) | [Skills](#Skills) | [Projects](#Projects) |  [Education](#Education)
 
-I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company in Luxembourg.
+I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company.
 
 At Makers, I learnt about Object Oriented Programming, Test Driven Development, Version Control and a few programming languages and frameworks, leading to making cool [projects](#Projects).
 
 
 I am looking for a Junior Developer position to keep learning and growing with a dynamic company.
 
+[TECH TEST SAMPLE](https://github.com/chdezmar/tech-test-ruby)
+
 
 ## <a name="Experience">Experience</a>
 
-**[Dentalzon](http://bitly.com/2jdDz9X)** (November 2016 - Present) | *Rails developer*
+**[Dentalzon](http://bitly.com/2jdDz9X)** (November 2016 - April 2017) | *Rails developer*
 ###### Madrid
 
 * Developing new features for a marketplace running on Ruby on Rails
