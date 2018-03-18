@@ -5,17 +5,25 @@
 
 [Experience](#Experience) | [Skills](#Skills) | [Projects](#Projects) |  [Education](#Education)
 
-I am a graduate of Makers Academy, a 16 week full stack web development bootcamp in London. After getting a Bachelor's degree in Law and a Masters in Finance and Capital Markets, I started working for an Asset Management Company.
-
-At Makers, I learnt about Object Oriented Programming, Test Driven Development, Version Control and a few programming languages and frameworks, leading to making cool [projects](#Projects).
-
-
-I am looking for a Junior Developer position to keep learning and growing with a dynamic company.
+I enjoy working in a collaborative environment where I have the opportunity to keep learning from more experienced developers, while working in interesting problems and developing features in the best way possible - by testing and constant communication with the team.
 
 [TECH TEST SAMPLE](https://github.com/chdezmar/tech-test-ruby)
 
 
 ## <a name="Experience">Experience</a>
+
+**[BetterDoc](https://www.betterdoc.org/)** (October 2017 - Present) | *Backend rails developer*
+###### Cologne
+
+* Working in all aspects of a complex internal application built on Ruby on Rails and Ember.
+* Integrating external APIs, developing new features.
+* Fixing bugs, support, performance improvements.
+* Tech used: Ruby on Rails, Javascript, Ember, PSQL, ElasticSearch
+
+**[Drestip](http://drestip.com/)** (April 2017 - December 2017) | *Developer*
+###### Madrid
+
+* Building web crawlers for an ecommerce website with scrapy and python.
 
 **[Dentalzon](http://bitly.com/2jdDz9X)** (November 2016 - April 2017) | *Rails developer*
 ###### Madrid
@@ -23,7 +31,7 @@ I am looking for a Junior Developer position to keep learning and growing with a
 * Developing new features for a marketplace running on Ruby on Rails
 * In charge of migrating to bootstrap, working closely with a designer. Also developing backend features for the new designs
 * Fixing bugs and refactoring old code, TDD, code reviews
-* Working in teams with in-house and remote developers
+* Working in a team with in-house and remote developers
 * Tech used: Ruby on Rails, Javascript, React, jQuery, MySQL, Sphinx, GIT...
 
 
@@ -52,13 +60,7 @@ I enjoy working with different technologies, so while working on projects I alwa
 
 I am used to working with people in a business setting, as well as working with different timezones.
 
-Pair programming has been a great learning tool for me. It always allows me to improve myself consistently through feedback by my peers.
-
-
-#### Focused
-
-I like systems that are well designed, integrated and simple.
-For me, software development is about efficiency. Getting the most output from the minimum input is what attracted me to this career. I don't like just making things, I like to do things that make sense.
+Pair programming has been a great learning tool for me. It allows me to improve consistently get better through feedback by my peers.
 
 
 
@@ -77,7 +79,6 @@ For me, software development is about efficiency. Getting the most output from t
 #### Makers Academy (April 2016 to August 2016)
 ###### London, UK
 
-- Curiosity and  passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, BDD
 - Software Craftsmanship
