@@ -12,7 +12,10 @@ I enjoy working in a collaborative environment where I have the opportunity to k
 
 ## <a name="Experience">Experience</a>
 
-**[BetterDoc](https://www.betterdoc.org/)** (October 2017 - Present) | *Backend rails developer*
+**[IOKI](https://ioki.com/)** (January 2018 - Present) | *Backend rails developer*
+###### Frankfurt
+
+**[BetterDoc](https://www.betterdoc.org/)** (October 2017 - December 2018) | *Backend rails developer*
 ###### Cologne
 
 * Working in all aspects of a complex internal application built on Ruby on Rails and Ember.
