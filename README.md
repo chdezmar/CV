@@ -12,7 +12,13 @@ I enjoy working in a collaborative environment where I have the opportunity to k
 
 ## <a name="Experience">Experience</a>
 
-**[IOKI](https://ioki.com/)** (January 2018 - Present) | *Backend rails developer*
+**[Personio](https://personio.com/)** (October 2018 - Present) | *Backend engineer*
+###### Madrid
+
+* Delivering new features in the Payroll product using Ruby on Rails and Kotlin.
+* TDD, DDD, hexagonal architecture.
+
+**[IOKI](https://ioki.com/)** (January 2019 - July 2019) | *Backend rails developer*
 ###### Frankfurt
 
 **[BetterDoc](https://www.betterdoc.org/)** (October 2017 - December 2018) | *Backend rails developer*
